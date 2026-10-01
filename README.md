@@ -25,14 +25,6 @@ That one move lowers confirmation bias, raises the cost of cheap talk, and makes
 
 ---
 
-## Live demo
-
-[terryncew.github.io/openline-discovery-market](https://terryncew.github.io/openline-discovery-market/)
-
-The demo is fully static and runs in the browser.
-
----
-
 ## Quick start
 
 ```bash
@@ -40,7 +32,7 @@ git clone https://github.com/terryncew/openline-discovery-market.git
 cd openline-discovery-market
 ```
 
-Then open `index.html` in your browser, or use the deployed GitHub Pages demo.
+Then open `docs/index.html` in your browser.
 
 No build step required.
 
